@@ -1,0 +1,16 @@
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\bin\Debug\net6.0\pracMatrix.exe
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\bin\Debug\net6.0\fractal - input.txt
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\bin\Debug\net6.0\pracMatrix.deps.json
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\bin\Debug\net6.0\pracMatrix.runtimeconfig.json
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\bin\Debug\net6.0\pracMatrix.dll
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\bin\Debug\net6.0\pracMatrix.pdb
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\obj\Debug\net6.0\pracMatrix.csproj.AssemblyReference.cache
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\obj\Debug\net6.0\pracMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\obj\Debug\net6.0\pracMatrix.AssemblyInfoInputs.cache
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\obj\Debug\net6.0\pracMatrix.AssemblyInfo.cs
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\obj\Debug\net6.0\pracMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\obj\Debug\net6.0\pracMatrix.dll
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\obj\Debug\net6.0\refint\pracMatrix.dll
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\obj\Debug\net6.0\pracMatrix.pdb
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\obj\Debug\net6.0\pracMatrix.genruntimeconfig.cache
+C:\Users\Enzo\Documents\Projects\practiceMatrix\pracMatrix\pracMatrix\obj\Debug\net6.0\ref\pracMatrix.dll
